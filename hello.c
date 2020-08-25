@@ -1,6 +1,5 @@
 /**
- * Author: Chris Bourke
- *         cbourke@cse.unl.edu
+ * Author: Thoai Luu
  * Date: 2020/03/26
  *
  * A simple hello world program in C
